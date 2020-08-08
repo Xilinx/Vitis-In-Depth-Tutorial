@@ -84,7 +84,7 @@ CXXFLAGS += -O2 -g -Wall -fmessage-length=0 -std=c++0x
 
 
 CXXLDFLAGS := -L$(XILINX_XRT)/lib/
-#CXXLDFLAGS += -lxilinxopencl -lpthread -lrt -lstdc++
+#CXXLDFLAGS += -lxilinxopencl -lpthread -lrt -lstdc++ 
 CXXLDFLAGS += -lOpenCL -lpthread -lrt -lstdc++
 
 ## Kernel Compiler and Linker Flags
@@ -99,7 +99,7 @@ VPPFLAGS += --config common.cfg
 
 $(BUILD_DIR)/$(HOST_EXE): $(HOST_SRC_CPP) $(HOST_SRC_H)
 	mkdir -p $(BUILD_DIR)
-	g++ $(CXXFLAGS) $(CXXLDFLAGS) -o $@ $(HOST_SRC_CPP)
+	g++ $(CXXFLAGS) -o $@ $(HOST_SRC_CPP) $(CXXLDFLAGS)
 
 
 ## Kernel XO and Xclbin File Generation
