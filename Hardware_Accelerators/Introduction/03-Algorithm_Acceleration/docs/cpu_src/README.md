@@ -24,6 +24,7 @@ Open a terminal and navigate to the <code>./docs/cpu_src</code> directory.
 
 Run the following command to compile the design:
 ```
+# Beware" the executable might segfault if server has limited stack size (relative to matrix size)
 g++ cpu_cholesky.cpp test.cpp matrixUtility.hpp -std=c++0x -O3 -o test
 ./test -M 512 -N 512 -seed 12
 ```
