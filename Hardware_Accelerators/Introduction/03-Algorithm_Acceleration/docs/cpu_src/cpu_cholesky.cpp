@@ -20,7 +20,8 @@
 
 void cpu_cholesky(int diagSize, double *matrixA) {
 
-   double dataA[MAXN][MAXN];
+   // no longer using MAXN but diagSize instead
+   double dataA[diagSize][diagSize];
 
    for(int i = 0; i < diagSize; i++){
       for (int j = 0; j < diagSize; j++) {
