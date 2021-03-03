@@ -1,5 +1,6 @@
-Visit the <code>cpu_src</code> and then move to the <code>module</code> prefixed directories to proceed with this Vitis tutorial for the Alveo U50 acceleration card.
-
-Local <code>README.md</code> files provide instructions...
-
-<p align="center"><sup>Copyright&copy; 2020 Xilinx</sup></p>
+<table>
+ <tr width="100%">
+    <td align="center"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>This repository has moved to a <a href="https://github.com/Xilinx/Vitis-Tutorials">new location.</a></h1>
+    </td>
+ </tr>
+</table>
