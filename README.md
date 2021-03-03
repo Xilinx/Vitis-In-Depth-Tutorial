@@ -1,8 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="canonical" href="https://github.com/Xilinx/Vitis-In-Depth-Tutorial/README.md"/>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta http-equiv="refresh" content="0;url=https://github.com/Xilinx/Vitis-In-Depth-Tutorial/README.md" />
-</head>
-</html>
+<table>
+ <tr width="100%">
+    <td align="center"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>This repository has moved</h1>
+    <a href="https://github.com/Xilinx/Vitis-Tutorials">New repository</br></a>
+    </td>
+ </tr>
+</table>
