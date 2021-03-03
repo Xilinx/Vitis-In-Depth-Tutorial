@@ -1,10 +1,6 @@
-## HLS Test Area ##
-
-To create the project for any individual HLS test (or to work on individual kernels in the HLS GUI)
-run
-
-```
-vivado_hls -f <project_name.tcl>
-
-vivado_hls -p <project_name>
-```
+<table>
+ <tr width="100%">
+    <td align="center"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>This repository has moved to a <a href="https://github.com/Xilinx/Vitis-Tutorials">new location.</a></h1>
+    </td>
+ </tr>
+</table>
