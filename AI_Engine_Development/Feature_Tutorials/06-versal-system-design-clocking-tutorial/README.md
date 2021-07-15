@@ -1,6 +1,6 @@
 <table>
  <tr width="100%">
-    <td align="center"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>This repository has moved to a <a href="https://github.com/Xilinx/Vitis-Tutorials">new location.</a></h1>
+    <td align="center"><img src="https://raw.githubusercontent.com/Xilinx/Image-Collateral/main/xilinx-logo.png" width="30%"/><h1>This repository has moved to a <a href="https://github.com/Xilinx/Vitis-Tutorials/tree/master/AI_Engine_Development/Feature_Tutorials/06-versal-system-design-clocking-tutorial">new location.</a></h1>
     </td>
  </tr>
 </table>
